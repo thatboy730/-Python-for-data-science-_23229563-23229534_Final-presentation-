@@ -1,0 +1,8 @@
+ticker,avg_sentiment_score,recommendation
+AAPL,0.650538,price going up today / buy
+AMZN,0.640909,price going up today / buy
+GOOGL,0.688462,price going up today / buy
+META,0.627358,price going up today / buy
+MSFT,0.668067,price going up today / buy
+NVDA,0.687500,price going up today / buy
+TSLA,0.467742,neutral / unpredictable
